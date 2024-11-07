@@ -1,0 +1,10 @@
+.dockerignore
+.env
+.git
+.gitignore*
+Dockerfile
+data
+docker.sh
+docker-utils.sh
+node_modules
+tokens*

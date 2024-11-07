@@ -1,0 +1,11 @@
+{
+  "name": "venom-bot1",
+  "version": "0.5.1",
+  "main": "src/main/index.js",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "venom-bot": "5.1.0"
+  }
+}

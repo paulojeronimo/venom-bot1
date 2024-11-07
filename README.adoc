@@ -1,0 +1,23 @@
+= venom-bot1
+
+== Running in a development mode
+
+Install Node.js.
+
+If you are in a Linux environment, install chromium.
+
+Finally, call `./run.sh`.
+
+== Running via Docker
+
+Build the Docker image:
+
+----
+$ ./docker.sh build
+----
+
+Run a docker container from it:
+
+----
+$ ./docker.sh
+----

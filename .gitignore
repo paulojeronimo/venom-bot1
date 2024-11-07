@@ -1,0 +1,5 @@
+.env
+.vscode
+data
+node_modules
+tokens*
